@@ -1,0 +1,5 @@
+{
+  "name": "MedCare",
+  "description": "Sog'liqni saqlashni boshqarish tizimi: shifokorlar, dori-darmonlar va simptomlarni kuzatish.",
+  "requestFramePermissions": []
+}
